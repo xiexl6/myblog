@@ -25,7 +25,7 @@ github_username:  xiexl
 # Build settings
 markdown: kramdown
 #theme: minimajekyll-theme-tactile
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
